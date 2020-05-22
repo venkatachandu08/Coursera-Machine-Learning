@@ -56,6 +56,7 @@ X = [ones(m, 1) X];
 
 
 %% ================ Part 2: Gradient Descent ================
+%% ================ Part 2: Gradient Descent ================
 
 % ====================== YOUR CODE HERE ======================
 % Instructions: We have provided you with the following starter
@@ -73,10 +74,6 @@ X = [ones(m, 1) X];
 %               Finally, you should complete the code at the end
 %               to predict the price of a 1650 sq-ft, 3 br house.
 %
-% Hint: By using the 'hold on' command, you can plot multiple
-%       graphs on the same figure.
-%
-% Hint: At prediction, make sure you do the same feature normalization.
 %
 
 fprintf('Running gradient descent ...\n');
